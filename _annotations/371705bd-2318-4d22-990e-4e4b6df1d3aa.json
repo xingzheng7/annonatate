@@ -1,0 +1,37 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/0002386"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\u5566\u5566\u5566",
+            "purpose": "bookmarking",
+            "creator": {
+                "id": "xingzheng7",
+                "name": "xingzheng7"
+            },
+            "created": "2022-09-27T02:36:50.340Z",
+            "modified": "2022-09-27T02:36:56.701Z"
+        }
+    ],
+    "target": {
+        "source": "https://d.lib.ncsu.edu/collections/canvas/0002386",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"2102.85595703125,1489.94091796875 2458.02880859375,1782.4361572265625 2197.1199465214977,2099.254115615448 1841.947094958998,1806.7588763576355\" /></svg>"
+        },
+        "renderedVia": {
+            "name": "annotorious-tilted-box"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://d.lib.ncsu.edu/collections/catalog/0002386/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "371705bd-2318-4d22-990e-4e4b6df1d3aa.json",
+    "motivation": "commenting"
+}
