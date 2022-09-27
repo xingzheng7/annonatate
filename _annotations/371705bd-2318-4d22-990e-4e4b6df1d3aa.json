@@ -8,13 +8,24 @@ order: 1
         {
             "type": "TextualBody",
             "value": "\u5566\u5566\u5566",
-            "purpose": "bookmarking",
+            "purpose": "commenting",
             "creator": {
                 "id": "xingzheng7",
                 "name": "xingzheng7"
             },
             "created": "2022-09-27T02:36:50.340Z",
-            "modified": "2022-09-27T02:36:56.701Z"
+            "modified": "2022-09-27T02:37:33.973Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "\u68d2\u6781\u4e86",
+            "purpose": "commenting",
+            "creator": {
+                "id": "xingzheng7",
+                "name": "xingzheng7"
+            },
+            "created": "2022-09-27T02:37:37.327Z",
+            "modified": "2022-09-27T02:37:38.264Z"
         }
     ],
     "target": {
